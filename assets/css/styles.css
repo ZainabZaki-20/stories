@@ -1,5 +1,9 @@
 /* styles.css */
 
+h1 {
+  text-align: center;
+}
+
 .frontpageimages {
   image-size: 100px
 }
