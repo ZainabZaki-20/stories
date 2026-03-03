@@ -8,5 +8,6 @@ p {
 }
 
 .frontpageimages {
-  image-size: 100px
+  width: 50px
+  text-align: center;
 }
