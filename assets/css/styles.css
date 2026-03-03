@@ -8,10 +8,11 @@ p {
 }
 
 .frontpageimages {
-  text-align: center;
+  display: flex; 
+  justify-content: center;
+  gap: 20px;
 }
 .frontpageimages img {
-  width: 50px;
+  width: 100px;
   height: auto;
-  margin: 10px; 
 }
