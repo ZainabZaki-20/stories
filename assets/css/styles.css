@@ -14,5 +14,8 @@ p {
 .col-7 {
   text-align: center;
 }
+.col-7 img {
+  margin-right: 50px;
+}
 
 
