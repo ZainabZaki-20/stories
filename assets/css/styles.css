@@ -8,6 +8,10 @@ p {
 }
 
 .frontpageimages {
-  width: 50px;
   text-align: center;
+}
+.frontpageimages img {
+  width: 50px;
+  height: auto;
+  margin: 10px; 
 }
