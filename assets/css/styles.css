@@ -3,6 +3,9 @@
 h1 {
   text-align: center;
 }
+p {
+  text-align: center;
+}
 
 .frontpageimages {
   image-size: 100px
