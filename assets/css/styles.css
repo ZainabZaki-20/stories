@@ -32,7 +32,7 @@ h3 {
 	width: 100px;
 	height: 100px;
 }
-.chaibg, .animalbg, .booksbg, .makeupbg, .musicbg {
+.chaibg, .animalbg, .booksbg, .makeupbg, .musicbg, .ricebg {
 	width: 100px;
 	height: 100px;
 	background-image: url(../img/box.png);
@@ -74,7 +74,13 @@ h3 {
 	background-image: url(../img/music.png);
 	cursor: crosshair;
 }
-
+.ricebg {
+	background-image: url(../img/box.png);
+}
+.ricebg:hover {
+	background-image: url(../img/rice.png);
+	cursor: crosshair;
+}
 
 
 
