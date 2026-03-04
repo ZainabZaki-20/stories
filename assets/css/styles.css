@@ -11,7 +11,8 @@ p {
 h3 {
 	text-align: center;
 }
-.btn {
+.buttonmain {
+	text-align: center;
 }
 .pyramid {
 	display: flex;
