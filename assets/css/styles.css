@@ -12,9 +12,6 @@ h3 {
 	text-align: center;
 }
 .btn {
-	background-color: brown;
-	boarder-color: brown;
-	color: white;
 }
 .pyramid {
 	display: flex;
