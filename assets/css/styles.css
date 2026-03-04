@@ -25,8 +25,8 @@ h3 {
 	gap: 10px;
 }
 .chaibg, .animalbg, .booksbg {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 	background-image: url(../img/box.png);
 	background-size: cover;
 	background-position: center;
