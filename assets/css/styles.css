@@ -22,8 +22,15 @@ h3 {
 }
 .pyramid-row {
 	display: flex;
-	justify-context: center;
+	justify-content: center;
 	gap: 10px;
+}
+.chaibg, .animalbg, .booksbg {
+	width: 100px;
+	height: 100px;
+	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .chaibg {
 	background-image: url(../img/box.png);
