@@ -63,6 +63,13 @@ h3 {
 	background-image: url(../img/makeup.png);
 	cursor: crosshair;
 }
+.musicbg {
+	background-image: url(../img/box.png);
+}
+.musicbg:hover {
+	background-image: url(../img/music.png);
+	cursor: crosshair;
+}
 
 
 
