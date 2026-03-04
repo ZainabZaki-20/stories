@@ -12,7 +12,6 @@ p {
 	background-image: url(../img/box.png);
 	width: 360px;
 	height 360px;
-	margin: 20px auto;
 }
 .chaibg:hover {
 	background-image: url(../img/chai.png);
