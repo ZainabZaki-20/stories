@@ -27,6 +27,7 @@ h3 {
 	display: flex;
 	justify-content: center;
 	gap: 10px;
+	flex-wrap: wrap;
 }
 .open-img {
 	width: 100px;
