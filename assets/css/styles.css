@@ -8,6 +8,53 @@ p {
   text-align: center;
   font-size: 50px;
 }
+.chaibg {
+	background-image: url(../img/box.png);
+	width: 360px;
+	height 360px;
+	margin: 20px auto;
+}
+.chaibg:hover {
+	background-image: url(../img/chai.png);
+	cursor: crosshair;
+}
+.animalbg {
+	background-image: url(../img/box.png);
+	width: 360px;
+	height 360px;
+	margin: 20px auto;
+}
+.animalbg:hover {
+	background-image: url(../img/animal.png);
+	cursor: crosshair;
+}
+.booksbg {
+	background-image: url(../img/box.png);
+	width: 360px;
+	height 360px;
+	margin: 20px auto;
+}
+.booksbg:hover {
+	background-image: url(../img/books.png);
+	cursor: crosshair;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Hiding stuff here
 .box-row {
