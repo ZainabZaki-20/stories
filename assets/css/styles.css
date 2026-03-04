@@ -14,9 +14,9 @@ h3 {
 .buttonmain {
 	text-align: center;
 	color: brown;
+}
 .button {
 	color: brown;
-}
 }
 .pyramid {
 	display: flex;
