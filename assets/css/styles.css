@@ -17,5 +17,10 @@ p {
 .col-7 img {
   margin-right: 50px;
 }
+.box {
+  display: flex;
+  gap: 20px;
+  width: 50%;
+}
 
 
