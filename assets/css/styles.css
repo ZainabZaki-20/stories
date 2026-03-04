@@ -22,5 +22,11 @@ p {
   gap: 20px;
   width: 50%;
 }
+.backgroundimage02 {
+	background-image: url(../img/cardboardbox_hypertext.png);
+}
+.backgroundimage02 : hover {
+  background-image: ../img/chai_hypertext.png);
+}
 
 
