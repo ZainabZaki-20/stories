@@ -2,31 +2,26 @@
 
 h1 {
   text-align: center;
-  text-size: 200px;
+  font-size: 200px;
 }
 p {
   text-align: center;
   text-size: 100px;
-}
-.col-5 {
-  text-align: center;
-}
-.col-7 {
-  text-align: center;
-}
-.col-7 img {
-  margin-right: 50px;
+.box-row {
+	display: flex;
+	justify-content: flex-end;
+	gap: 15px;
+	margin-top: 20px;
 }
 .box {
-  display: flex;
-  gap: 20px;
-  width: 50%;
+	position: relative;
+	width: 100px;
 }
-.backgroundimage02 {
-	background-image: url(../img/cardboardbox_hypertext.png);
+.box img {
+	width: 100%;
+	display: block;
 }
-.backgroundimage02 : hover {
-  background-image: ../img/chai_hypertext.png);
-}
+.box .hover {
+	position: absolute;
 
 
