@@ -33,36 +33,24 @@ h3 {
 }
 .chaibg {
 	background-image: url(../img/box.png);
-	width:100%;
-	height:100%;
 }
 .chaibg:hover {
 	background-image: url(../img/chai.png);
 	cursor: crosshair;
-	width:100%;
-	height:100%;
 }
 .animalbg {
 	background-image: url(../img/box.png);
-	width:100%;
-	height:100%;
 }
 .animalbg:hover {
 	background-image: url(../img/animal.png);
 	cursor: crosshair;
-	width:100%;
-	height:100%;
 }
 .booksbg {
 	background-image: url(../img/box.png);
-	width:100%;
-	height:100%;
 }
 .booksbg:hover {
 	background-image: url(../img/books.png);
 	cursor: crosshair;
-	width:100%;
-	height:100%;
 }
 
 
