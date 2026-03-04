@@ -8,6 +8,8 @@ p {
   text-align: center;
   font-size: 50px;
 }
+
+<!-- Hiding stuff here
 .box-row {
 	display: flex;
 	justify-content: flex-end;
@@ -31,5 +33,5 @@ p {
 .box:hover .hover {
 	opacity: 1;
 }
-
+-->
 
