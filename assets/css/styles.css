@@ -20,8 +20,7 @@ p {
 .animalbg {
 	background-image: url(../img/box.png);
 	width: 360px;
-	height 360px;
-	margin: 20px auto;
+	height: 360px;
 }
 .animalbg:hover {
 	background-image: url(../img/animal.png);
@@ -30,8 +29,7 @@ p {
 .booksbg {
 	background-image: url(../img/box.png);
 	width: 360px;
-	height 360px;
-	margin: 20px auto;
+	height: 360px;
 }
 .booksbg:hover {
 	background-image: url(../img/books.png);
