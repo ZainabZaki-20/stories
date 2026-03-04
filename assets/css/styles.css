@@ -6,7 +6,8 @@ h1 {
 }
 p {
   text-align: center;
-  text-size: 100px;
+  font-size: 100px;
+}
 .box-row {
 	display: flex;
 	justify-content: flex-end;
