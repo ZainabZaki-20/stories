@@ -24,6 +24,10 @@ h3 {
 	justify-content: center;
 	gap: 10px;
 }
+.open-img {
+	width: 100px;
+	height: 100px;
+}
 .chaibg, .animalbg, .booksbg {
 	width: 100px;
 	height: 100px;
