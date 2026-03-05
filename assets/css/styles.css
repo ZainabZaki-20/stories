@@ -36,53 +36,81 @@ h3 {
 	width: 100px;
 	height: 100px;
 }
-.chaibg, .animalbg, .booksbg, .makeupbg, .musicbg, .ricebg {
+.chaibg {
 	width: 100px;
 	height: 100px;
 	background-image: url(../img/box.png);
 	background-size: cover;
 	background-position: center;
 }
-.chaibg {
-	background-image: url(../img/box.png);
-}
 .chaibg:hover {
 	background-image: url(../img/chai.png);
 	cursor: crosshair;
 }
 .animalbg {
+	width: 100px;
+	height: 100px;
 	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .animalbg:hover {
 	background-image: url(../img/animal.png);
 	cursor: crosshair;
 }
 .booksbg {
+	width: 100px;
+	height: 100px;
 	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .booksbg:hover {
 	background-image: url(../img/books.png);
 	cursor: crosshair;
 }
 .makeupbg {
+	width: 100px;
+	height: 100px;
 	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .makeupbg:hover {
 	background-image: url(../img/makeup.png);
 	cursor: crosshair;
 }
 .musicbg {
+	width: 100px;
+	height: 100px;
 	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .musicbg:hover {
 	background-image: url(../img/music.png);
 	cursor: crosshair;
 }
 .ricebg {
+	width: 100px;
+	height: 100px;
 	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
 .ricebg:hover {
 	background-image: url(../img/rice.png);
+	cursor: crosshair;
+}
+.perfumebg {
+	width: 100px;
+	height: 100px;
+	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
+}
+.perfumebg:hover {
+	background-image: url(../img/perfume.png);
 	cursor: crosshair;
 }
 
