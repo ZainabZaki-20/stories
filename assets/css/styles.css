@@ -168,3 +168,14 @@ h3 {
 	background-image: url(../img/shoes.png);
 	cursor: crosshair;
 }
+.camerabg {
+	width: 100px;
+	height: 100px;
+	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
+}
+.camerabg:hover {
+	background-image: url(../img/camera.png);
+	cursor: crosshair;
+}
