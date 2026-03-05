@@ -157,3 +157,14 @@ h3 {
 	background-image: url(../img/roses.png);
 	cursor: crosshair;
 }
+.shoesbg {
+	width: 100px;
+	height: 100px;
+	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
+}
+.shoesbg:hover {
+	background-image: url(../img/shoes.png);
+	cursor: crosshair;
+}
