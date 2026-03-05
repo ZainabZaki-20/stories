@@ -135,14 +135,14 @@ h3 {
 	background-image: url(../img/art.png);
 	cursor: crosshair;
 }
-.diarybg {
+.diarysbg {
 	width: 100px;
 	height: 100px;
 	background-image: url(../img/box.png);
 	background-size: cover;
 	background-position: center;
 }
-.diarybg:hover {
+.diarysbg:hover {
 	background-image: url(../img/diary.png);
 	cursor: crosshair;
 }
