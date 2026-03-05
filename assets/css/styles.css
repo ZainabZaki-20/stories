@@ -135,46 +135,14 @@ h3 {
 	background-image: url(../img/art.png);
 	cursor: crosshair;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Hiding stuff here
-.box-row {
-	display: flex;
-	justify-content: flex-end;
-	gap: 15px;
-	margin-top: 20px;
-}
-.box {
-	position: relative;
+.diarybg {
 	width: 100px;
+	height: 100px;
+	background-image: url(../img/box.png);
+	background-size: cover;
+	background-position: center;
 }
-.box img {
-	width: 100%;
-	display: block;
+.diarybg:hover {
+	background-image: url(../img/diary.png);
+	cursor: crosshair;
 }
-.box .hover {
-	position: absolute;
-	top: 0;
-	left: 0;
-	opacity: 0;
-}
-.box:hover .hover {
-	opacity: 1;
-}
--->
-
